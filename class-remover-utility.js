@@ -4,7 +4,7 @@
  * Designed for Tampermonkey userscripts to eliminate annoying classes
  * that prevent text selection, copying, or other user interactions.
  * 
- * @author Sterling Freeman
+ * @author SterlingJF
  * @version 0.1.0
  * @license MIT
  */
