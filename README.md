@@ -41,6 +41,9 @@ window.ClassRemoverUtility.removeClasses(CLASSES_TO_REMOVE, options);
 
 ## Example Scripts
 
+> [!IMPORTANT]
+> All examples require `@run-at document-end` in your userscript header.
+
 **News Sites:**
 ```javascript
 const CLASSES = ['no-select', 'paywall-blur'];
